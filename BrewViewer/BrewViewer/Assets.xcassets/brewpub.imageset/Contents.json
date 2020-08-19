@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "jonas-jacobsson-p2KA3Q2lfSw-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
